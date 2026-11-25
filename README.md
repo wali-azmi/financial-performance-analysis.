@@ -15,3 +15,5 @@ End-to-end financial performance analysis using Python, MySQL, DBeaver, and Powe
 ## Key Notes
 * **Filtering Context:** Unfiltered average operating margin across all records can be pulled lower by negative margin outliers in specific periods or companies, so filtering by `fiscal_year` and `symbol` gives a clearer view of performance.
 *
+## Dashboard Preview
+![Financial Performance Dashboard](financial_performance_dashboard_screenshot.png)
